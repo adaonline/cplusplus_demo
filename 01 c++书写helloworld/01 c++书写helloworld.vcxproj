@@ -129,9 +129,16 @@
   <ItemGroup>
     <ClCompile Include="01 helloworld.cpp" />
     <ClCompile Include="99乘法表.cpp" />
+    <ClCompile Include="const修饰指针.cpp" />
+    <ClCompile Include="swap.cpp" />
     <ClCompile Include="二维数组应用.cpp" />
     <ClCompile Include="值传递.cpp" />
     <ClCompile Include="冒泡排序.cpp" />
+    <ClCompile Include="函数分文件.cpp" />
+    <ClCompile Include="指针.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="swap.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
