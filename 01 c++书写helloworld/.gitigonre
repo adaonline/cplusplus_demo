@@ -1,0 +1,111 @@
+## Visual Studio C++ 项目特定忽略规则
+
+# 用户特定文件
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 生成的文件
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+# 编译生成目录
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+arm64/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+bld/
+[Oo]ut/
+
+# Visual Studio 目录
+.vs/
+.vscode/
+ipch/
+*.VC.VC.opendb
+
+# 编译中间文件
+*.ilk
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.idb
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.sbr
+*.bsc
+*.exp
+*.lib
+*.dll
+*.exe
+*.manifest
+*.res
+*.rsp
+*.iobj
+*.imguilib
+
+# IntelliSense 相关文件
+*.sdf
+
+# 预编译头文件
+*.pch
+
+# 资源编译器生成的文件
+*.res
+
+# 汇编列表文件
+*.asm
+
+# 调试符号文件
+*.idb
+*.pdb
+
+# 链接器生成的文件
+*.ilk
+*.map
+*.exp
+
+# 静态分析工具生成的文件
+*.nativecodeanalysis.xml
+*.ruleset
+
+# CLR 相关文件（如果使用）
+*.clr
+*.jmc
+
+# Qt 相关文件（如果使用 Qt）
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+*.moc
+*.qrc
+*.qm
+
+# CMake 生成的文件（如果使用 CMake）
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# 其他可能生成的文件
+Thumbs.db
+[Dd]esktop.ini
