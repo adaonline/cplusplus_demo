@@ -136,6 +136,14 @@
     <ClCompile Include="冒泡排序.cpp" />
     <ClCompile Include="函数分文件.cpp" />
     <ClCompile Include="指针.cpp" />
+    <ClCompile Include="指针和数组.cpp" />
+    <ClCompile Include="结构体.cpp" />
+    <ClCompile Include="结构体const使用.cpp" />
+    <ClCompile Include="结构体做函数参数.cpp" />
+    <ClCompile Include="结构体嵌套.cpp" />
+    <ClCompile Include="结构体指针.cpp" />
+    <ClCompile Include="结构体数组.cpp" />
+    <ClCompile Include="结构体案例1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap.h" />
