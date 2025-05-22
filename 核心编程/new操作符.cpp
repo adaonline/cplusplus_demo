@@ -7,7 +7,7 @@ int* func1()
 	return a;
 }
 
-int main() {
+int main1() {
 
 	int* p = func1();
 

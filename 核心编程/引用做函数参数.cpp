@@ -21,7 +21,7 @@ void mySwap03(int& a, int& b) {
 	b = temp;
 }
 
-int main1() {
+int main3() {
 
 	int a = 10;
 	int b = 20;
@@ -32,6 +32,7 @@ int main1() {
 	mySwap02(&a, &b);
 	cout << "a:" << a << " b:" << b << endl;
 
+	//第三次交换回来了，所以又变成了10，20
 	mySwap03(a, b);
 	cout << "a:" << a << " b:" << b << endl;
 

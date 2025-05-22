@@ -24,5 +24,26 @@
     <ClCompile Include="new操作符.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="引用做函数返回值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="引用的本质.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常量引用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.1 函数默认参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.2 函数占位参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.3.1 函数重载概述.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.3.2 函数重载注意事项.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
